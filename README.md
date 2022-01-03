@@ -1,16 +1,12 @@
-# clockapp
+Aplikasi alarm menggunakan flutter
 
-A new Flutter project.
+kali ini saya akan mempresentasikan program aplikasi yang saya buat yaitu sebuah aplikasi alarm referensi belajar saya sendiri yaitu dari channel youtube CodeX
 
-## Getting Started
+Untuk pendukung perangkatnya sebagai berikut
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter (Channel beta, 2.1.0-12.2.pre, on Microsoft Windows [Version 10.0.19043.1415], locale en-US)
+Android toolchain - develop for Android devices (Android SDK version 30.0.2)
+Chrome - develop for the web
+Android Studio (version 4.0)
+VS Code, 64-bit edition (version 1.60.2)
+Emulator baik menggunakan HP atau Emulator bawaan android studio
